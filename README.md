@@ -9,7 +9,7 @@
 
 ## <a name="about"></a> About
 
-This repository features a Unity project implementing a straightforward random skin selector using the MVC architecture. The purpose is to showcase a clean and modular approach to skin selection within Unity game development.
+This repository features a Unity project created by [Davit Badalyan](https://github.com/davit-badalyan), implementing a straightforward random skin selector using the MVC architecture. The purpose is to showcase a clean and modular approach to skin selection within Unity game development.
 
 ## <a name="project"></a> Project
 
