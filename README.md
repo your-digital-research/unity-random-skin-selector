@@ -17,6 +17,8 @@ This repository features a Unity project implementing a straightforward random s
 
 ## <a name="getting-started"></a> Getting Started
 
+To get started with the project, follow these simple steps:
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/unity-random-skin-selector.git
