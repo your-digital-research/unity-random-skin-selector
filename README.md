@@ -13,7 +13,7 @@ This repository features a Unity project implementing a straightforward random s
 
 ## <a name="project"></a> Project
 
-**Note:** These project was developed using Unity 2020 LTS.
+**Note:** Project was developed using Unity 2020 LTS.
 
 ## <a name="getting-started"></a> Getting Started
 
