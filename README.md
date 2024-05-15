@@ -5,6 +5,7 @@
 - [About](#about)
 - [Project](#project)
 - [Getting Started](#getting-started)
+- [Preview](#preview)
 - [License](#license)
 
 ## <a name="about"></a> About
@@ -22,12 +23,19 @@ To get started with the project, follow these simple steps:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-username/unity-random-skin-selector.git
+   ```
 2. **Explore the MVC Structure**
    - Review the organized MVC structure within the Unity project.
    - Understand how the model, view, and controller work together.
 3. **Run the Project**
    - Open the Unity project.
    - Run the scene to see the random skin selector in action.
+
+## <a name="preview"></a> Preview
+
+<p align="center">
+  <img src="Assets/GIF/preview.gif" alt="Preview" title="Preview" width="300">
+</p>
 
 ## <a name="license"></a> License
 
