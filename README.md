@@ -34,7 +34,7 @@ To get started with the project, follow these simple steps:
 ## <a name="preview"></a> Preview
 
 <p align="center">
-  <img src="Assets/GIF/preview.gif" alt="Preview" title="Preview" width="300">
+  <img src="Assets/GIF/preview.gif" alt="Preview" title="Preview" width="800">
 </p>
 
 ## <a name="license"></a> License
