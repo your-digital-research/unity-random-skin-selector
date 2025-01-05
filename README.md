@@ -14,7 +14,7 @@ This repository features a Unity project created by [Davit Badalyan](https://git
 
 ## <a name="project"></a> Project
 
-**Note:** Project was developed using Unity 2020 LTS.
+**Note:** Project was developed using Unity 2021 LTS.
 
 ## <a name="getting-started"></a> Getting Started
 
