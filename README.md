@@ -22,7 +22,7 @@ To get started with the project, follow these simple steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/unity-random-skin-selector.git
+   git clone https://github.com/your-digital-research/unity-random-skin-selector.git
    ```
 2. **Explore the MVC Structure**
    - Review the organized MVC structure within the Unity project.
